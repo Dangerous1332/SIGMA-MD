@@ -18,8 +18,8 @@
 
 /**
 
-* @project_name : SIGMA-MD
-* @Developer : Maher-Zubair
+* @project_name : SHANII-MD
+* @Developer : SHANI-RAJPUT
 * @Version : v.1.5.3
 * @license : Apache-2.0
 
@@ -68,7 +68,7 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZO
 global.sudo  =  process.env.SUDO || "923466319114" ;          // DON'T REMOVE
 global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
 global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ef6310e3e63965b1258fe.jpg' ;
 //=================================================================================
 
 
