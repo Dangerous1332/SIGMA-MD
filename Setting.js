@@ -18,8 +18,8 @@
 
 /**
 
-* @project_name : SHANII-MD
-* @Developer : SHANI-RAJPUT
+* @project_name : 🛡️SHANII-BOT-MD🛡️
+* @Developer : 🎩SHANI-RAJPUT🎩
 * @Version : v.1.5.3
 * @license : Apache-2.0
 
